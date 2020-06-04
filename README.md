@@ -44,4 +44,6 @@ current DNS ip
 
  - dns 서버 사용법 유튜브 추가
   1. 아이폰용
+    현재 추천은 trust dns 앱
   2. 맥북용
+    network에서 dns 직접 설정
