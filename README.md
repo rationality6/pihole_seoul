@@ -42,8 +42,12 @@ current DNS ip
   issue에 올려주시면 방향성과 맞으면 계속 추가합니다.
 ```
 
- - dns 서버 사용법 유튜브 추가
+ - dns 서버 세팅법 사용법 유튜브 찍기 추가
+ 
   1. 아이폰용
-    현재 추천은 trust dns 앱
+  
+  현재 추천은trust dns 앱
+  
   2. 맥북용
-    network에서 dns 직접 설정
+  
+  network에서 dns 직접 설정
