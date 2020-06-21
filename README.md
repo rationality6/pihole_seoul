@@ -9,6 +9,7 @@ current DNS ip
 
 ```
 파이홀 현재상태 통계 admin board
+  59.17.38.1
   59.17.38.1/admin
 ```
 
