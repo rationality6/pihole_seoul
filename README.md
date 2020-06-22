@@ -13,6 +13,11 @@ current DNS ip
   59.17.38.1/admin
 ```
 
+```
+current version
+  pihole5.0
+```
+
 ## 기능
   - 광고제거
     1. 네이버 광고 제거
