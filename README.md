@@ -15,7 +15,7 @@ current DNS ip
 
 ```
 current version
-  pihole5.0
+  pihole 5.2.1
 ```
 
 ## 기능
