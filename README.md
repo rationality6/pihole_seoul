@@ -6,9 +6,15 @@
 # changelog
 
 2021/1/16
+
 공식 pi os로 다시 인스톨.
+
 adguard 로 교체.
+
 adlist 대량 추가.
+
+
+
 
 
 ```
