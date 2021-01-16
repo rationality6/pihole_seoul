@@ -2,6 +2,15 @@
 # 파이홀 부천 이란?
   - Pihole 오픈소스와 Cloudflare 사의 1.1.1.3 을 기본으로 광고 제거와 더 나은 한국버전을 추구하는 부천에 위치한 비영리 custom DNS 서버
 
+
+# changelog
+
+2021/1/16
+공식 pi os로 다시 인스톨.
+adguard 로 교체.
+adlist 대량 추가.
+
+
 ```
 current DNS ip
   59.17.38.1
