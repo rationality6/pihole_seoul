@@ -1,4 +1,5 @@
-# the server has been closed
+# The server has been closed
+# Thank you!
 
 
 
