@@ -1,21 +1,21 @@
 # under_construction
 
 
-### pihole_seoul
+## pihole_seoul
 
 
-## What is pihole seoul?
+### What is pihole seoul?
   - Based on Pihole and Cloudflare 1.1.1.3, open Pihole custom non-profit DNS server
 
 
-# changelog
+### changelog
 
 ```
 current DNS ip
   121.173.62.114
 ```
 
-## 기능
+### 기능
   - 광고제거
     1. 네이버 광고 제거
     2. 유튜브 광고 제거
@@ -40,7 +40,7 @@ current DNS ip
   1. 일베 블럭
   2. 워마드 블럭
 
-# todo list
+### todo list
 
 
 ```
