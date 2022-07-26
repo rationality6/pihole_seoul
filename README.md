@@ -1,11 +1,9 @@
-# The server has been closed
-# Thank you!
+# under_construction
 
 
-
-# pihole_bucheon
-# 파이홀 부천 이란?
-  - 라즈베리파이3에 올려져있는 도커 pihole 과 Cloudflare 사의 1.1.1.3 을 기본으로 광고 제거를 추구하는 부천에 위치한 비영리 adguard custom DNS 서버
+# pihole_seoul
+# What is pihole seoul?
+  - Based on Pihole and Cloudflare 1.1.1.3, open Pihole custom non-profit DNS server
 
 
 # changelog
