@@ -1,6 +1,3 @@
-# under_construction
-
-
 ## pihole_seoul
 
 
@@ -12,6 +9,7 @@
 
 ```
 current DNS ip
+13.209.177.36
 
 ```
 
@@ -51,7 +49,7 @@ current DNS ip
  
   1. 아이폰용
   
-  현재 추천은trust dns 앱
+  현재 추천은 trust dns 앱
   
   2. 맥북용
   
